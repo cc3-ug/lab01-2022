@@ -5,6 +5,7 @@ ll_equal
 ll_cycle
 int_hello
 .autograder
+grading/__pycache__/
 
 # Prerequisites
 *.d
